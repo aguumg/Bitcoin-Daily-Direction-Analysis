@@ -4,7 +4,7 @@ In this project we will give an overview of several data-science models and thei
 
 We will a set of different features that covered the following aspects:
 
--Price discovery phenomenon for Bitcoin;
+-BTC's price discovery phenomenon and spot movement;
 
 -Market sentiment;
 
